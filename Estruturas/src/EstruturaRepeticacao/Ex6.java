@@ -22,5 +22,6 @@ public class Ex6 {
             }
             System.out.println("O fatorial de " + num + " é: " + multiplicacao);
         }
+        scanner.close();
     }
 }

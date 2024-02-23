@@ -26,6 +26,7 @@ public class Ex3 {
         System.out.println("O maior número digitado é: " + maior );
         System.out.println("A média dos valores é: " + soma/5 );
 
-
+        scanner.close();
         }
+        
  }

@@ -29,5 +29,6 @@ public class Ex4 {
         System.out.println("A quantidade de números pares digitados é igual a: " + pares);
         System.out.println("A quantidade de números ímpares digitados é igual a: " + impares);
 
+        scanner.close();
     }
 }

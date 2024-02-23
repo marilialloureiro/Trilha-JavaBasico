@@ -14,19 +14,21 @@ public class Ex1 {
 
         String nome;
         int idade;
+        
 
         while (true) {
 
             System.out.println("Nome: ");
             nome = scanner.next();
-            if (nome.equals("0"))
-            break;
-            
+            if (nome.equals("0")){
+                System.out.println("Programa encerrado!");
+                break;
+            }
+              
+         
             System.out.println("Idade: ");
             idade = scanner.nextInt();
-    
-
-            
+           
         } 
         scanner.close();
        
