@@ -1,4 +1,5 @@
-package Pratica1_POO;
+package Pratica.Pratica1;
+
 
 public class Carro {
     String cor;
