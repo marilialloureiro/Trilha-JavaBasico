@@ -1,3 +1,5 @@
+package Pratica1_POO;
+
 public class Main {
     public static void main(String[] args) {
         Carro carro = new Carro();
@@ -24,5 +26,4 @@ public class Main {
 
 
     }
-    
 }

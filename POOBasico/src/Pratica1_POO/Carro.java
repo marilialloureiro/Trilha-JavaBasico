@@ -1,3 +1,5 @@
+package Pratica1_POO;
+
 public class Carro {
     String cor;
     String modelo;
@@ -48,3 +50,4 @@ public class Carro {
 
 
 }
+
